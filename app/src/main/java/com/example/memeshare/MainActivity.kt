@@ -45,8 +45,8 @@ class MainActivity : AppCompatActivity() {
         // Instantiate the RequestQueue.
 
         progressBar.visibility = View.VISIBLE
-        nextButton.isEnabled = false
-        shareButton.isEnabled = false
+//        nextButton.isEnabled = false
+//        shareButton.isEnabled = false
         val url = "https://meme-api.herokuapp.com/gimme"
 
         // Request a string response from the provided URL.
