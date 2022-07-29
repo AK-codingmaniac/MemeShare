@@ -9,10 +9,11 @@ It also uses Glide library to load the meme image into ImageView of Layout file.
 It enables users to see the memes on random topics from Reddit and also share it on many social media platforms i.e. WhatsApp etc.:grinning:
 </p>
 <p>
+I know that I have to work on UI of it.:sweat_smile:<br><br>
 It may contain some unappropriate memes as the source is Reddit.I will update it in the future so until then take care:raised_hands:	
 </p>  
 <br>
-<h2>Screenshots:-</h2>
+<h2>Screenshots/Testimonials:-</h2>
 <img src="/readme/meme1.jpeg" align="left" width="200" hspace="10" vspace="10">
 <img src="/readme/meme2.jpeg" align="left" width="200" hspace="10" vspace="10">
 <img src="/readme/sharememe_screen.jpeg" align="left" width="200" hspace="10" vspace="10">
